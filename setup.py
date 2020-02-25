@@ -36,7 +36,7 @@ class PyTest(TestCommand):
 
 setup(
     name='hug_sentry',
-    version='0.0.2',
+    version='0.0.3',
     author='Fabian Kochem',
     author_email='fabian.kochem@concepts-and-training.de',
     description='Sentry Exception Handler for hug',
